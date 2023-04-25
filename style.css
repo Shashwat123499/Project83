@@ -1,0 +1,27 @@
+.co, .wi {
+    display: inline-block;
+}
+
+
+
+body {
+    background-image: url("bg1.jpg");]
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    background-color: white;
+    border-style: double;
+    border-width: 5px;
+    margin-top: 50px;
+}
+
+button {
+    background-color: green;
+    height: 30px;
+    width: 70px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
